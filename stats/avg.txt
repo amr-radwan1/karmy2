@@ -1,0 +1,9 @@
+Average Probabilities:
+
+True Positives (Fake predicted as Fake): 0.7507
+
+False Positives (Real predicted as Fake): 0.6356
+
+True Negatives (Real predicted as Real): 0.2747
+
+False Negatives (Fake predicted as Real): 0.3116
