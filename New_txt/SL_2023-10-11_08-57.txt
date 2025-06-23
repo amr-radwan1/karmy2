@@ -1,0 +1,4 @@
+Rest 0 119 
+Painless 119 1024 
+Pain 1024 1646 
+Rest 1646 1685 

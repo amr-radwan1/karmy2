@@ -1,0 +1,12 @@
+Painless 0 301 
+Pain 301 324 
+Painless 324 702 
+Pain 702 729 
+Painless 729 1641 
+Pain 1641 1643 
+Painless 1643 1644 
+Pain 1644 1668 
+Painless 1668 1978 
+Pain 1978 1993 
+Painless 1993 2025 
+Rest 2025 2051 

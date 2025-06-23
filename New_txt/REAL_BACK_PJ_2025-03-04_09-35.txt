@@ -1,0 +1,13 @@
+Rest 0 41 
+Painless 41 305 
+Rest 305 405 
+Painless 405 477 
+Pain 477 519 
+Painless 519 644 
+Pain 645 685 
+Painless 685 833 
+Pain 833 861 
+Painless 861 953 
+Pain 953 1022 
+Painless 1022 1057 
+Rest 1057 1073 

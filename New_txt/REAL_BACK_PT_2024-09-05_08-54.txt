@@ -1,0 +1,11 @@
+Rest 0 1162 
+Painless 1162 1266 
+Pain 1266 1324 
+Painless 1324 1476 
+Pain 1476 1544 
+Painless 1544 1855 
+Pain 1855 1897 
+Painless 1897 2034 
+Pain 2034 2078 
+Painless 2078 2104 
+Rest 2104 2130 

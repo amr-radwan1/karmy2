@@ -1,0 +1,9 @@
+Rest 0 46 
+Painless 46 195 
+Fake 195 213 
+Painless 213 354 
+Fake 354 380 
+Painless 380 556 
+Fake 556 569 
+Painless 569 582 
+Rest 582 613 

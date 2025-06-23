@@ -1,0 +1,7 @@
+Rest 0 205 
+Painless 205 264 
+Pain 264 300 
+Painless 300 336 
+Pain 336 360 
+Painless 360 699 
+Rest 699 715 
